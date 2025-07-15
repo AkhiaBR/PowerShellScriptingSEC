@@ -1,2 +1,3 @@
-# PowerShellScriptingSEC
-O repositório PowerShellScriptingSEC é dedicado ao desenvolvimento de scripts em PowerShell, com foco em aplicações na área de cibersegurança e testes de penetração (pentest). Este projeto faz parte de um curso que ensina os fundamentos da programação em PowerShell, voltada para usos práticos em segurança da informação.
+⚠️ AVISO IMPORTANTE ⚠️
+
+Todo o conteúdo e scripts presentes neste repositório são estritamente para fins educacionais e de aprendizado. O uso indevido ou malicioso das ferramentas e conhecimentos aqui compartilhados é de inteira responsabilidade do usuário. Pratique a segurança da informação de forma ética e legal.
